@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "hhhhhhihihi",
+      "price": "6000",
+      "img": "https://fastly.picsum.photos/id/338/50/50.jpg?hmac=nHhoIkHZtqRwo2eMH1Cf5bzv_tJu2WIfRsPoFFeeS8c",
+      "id": 11
+    },
+    {
+      "name": "abcxu=yz",
+      "price": "1777",
+      "img": "https://picsum.photos/200/300",
+      "id": 12
+    },
+    {
+      "name": "abc5ttt",
+      "price": "2222",
+      "img": "https://picsum.photos/200/300",
+      "id": 13
+    }
+  ]
+}
